@@ -1,16 +1,10 @@
-#file_to_save = os.path.join("Analysis", "election_analysis.txt")
-#outfile = open(file_to_save, "w")
-#outfile.write("Counties in the Election\n-------------------------\nArapahoe\nDenver\nJefferson")
-#outfile.close()
-
-
 # Add our dependencies.
 import csv
 import os
 # Assign a variable to load a file from a path.
 file_to_load = os.path.join("Resources", "election_results.csv")
 # Assign a variable to save the file to a path.
-file_to_save = os.path.join("Resources", "election_analysis.txt")
+file_to_save = os.path.join("Resources", "winning_candidate_summary.txt")
 # Initialize a total vote counter.
 total_votes = 0
 # Candidate options and candidate votes.
