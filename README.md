@@ -14,7 +14,7 @@ A Colorado Board of Educations employee has given yo uthe following tasks to com
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
-The analysis of the election show that:<br>
+The analysis of the election show that:<br><img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/VBA_Challenge_2017.png" width="400" height="400">
 &nbsp;&nbsp;- There were 369,711 votes cast in the election.<br>
 &nbsp;&nbsp;- The Candidates were:<br>
 &nbsp;&nbsp;- Charles Casper Stockham<br>
